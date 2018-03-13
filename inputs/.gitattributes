@@ -1,0 +1,10 @@
+T50_seq.pkl filter=lfs diff=lfs merge=lfs -text
+T50_seq_struct.pkl filter=lfs diff=lfs merge=lfs -text
+absorption_seq.pkl filter=lfs diff=lfs merge=lfs -text
+enantioselectivity_seq.pkl filter=lfs diff=lfs merge=lfs -text
+localization_seq.pkl filter=lfs diff=lfs merge=lfs -text
+localization_seq_struct.pkl filter=lfs diff=lfs merge=lfs -text
+r1.txt filter=lfs diff=lfs merge=lfs -text
+r2.txt filter=lfs diff=lfs merge=lfs -text
+r3.txt filter=lfs diff=lfs merge=lfs -text
+uniprot-reviewed-lim_sequences.txt filter=lfs diff=lfs merge=lfs -text
