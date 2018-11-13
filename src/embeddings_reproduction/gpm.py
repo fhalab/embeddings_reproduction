@@ -6,7 +6,6 @@ from scipy.optimize import minimize
 from scipy import linalg
 import pandas as pd
 
-import gpk
 
 class BaseGPModel(abc.ABC):
 
