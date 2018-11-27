@@ -1,7 +1,8 @@
 import itertools
 from collections import Counter
-from gpk import BaseKernel
+from embeddings_reproduction.gpk import BaseKernel
 import numpy as np
+
 
 class MismatchKernel(BaseKernel):
 

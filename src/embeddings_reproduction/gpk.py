@@ -1,8 +1,6 @@
 """Kernel functions that calculate the covariance between two inputs."""
 
 import numpy as np
-import pandas as pd
-from sys import exit
 import abc
 
 from scipy.spatial import distance
